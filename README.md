@@ -1,5 +1,5 @@
 # `recall`
-A *mini* bash utility for (teens) that remembers and restores last terminal session's development environment. Made mostly for personal use.
+A *mini* bash utility (for teens) that remembers and restores the last terminal session's development environment. Made primarily for personal use.
 
 ## What Does It Restore?
 
@@ -21,4 +21,4 @@ After login, run `recall`
 
 ## Known Issues
 
-* Does not work with `VSCODE`.
+* Does not work with Visual Studio Code because they have their own `PROMPT_COMMAND`. Should be fixable.
