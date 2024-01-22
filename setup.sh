@@ -1,4 +1,4 @@
-rm -f .recall
+rm -f ~/.recall
 rm -rf ~/.recall
 
 if grep -q "RECALL_DEFINED" ~/.bashrc; then
